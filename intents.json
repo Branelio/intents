@@ -444,25 +444,47 @@
         "tag": "ubicacion_iess",
         "patterns": [
           [
-  
-          ]
+          "¿Dónde queda el IESS en Latacunga?",
+          "Ubicación del IESS en Latacunga",
+          "¿Cómo llegar al IESS?",
+          "Dame la dirección del IESS en Latacunga",
+          "¿Dónde está ubicado el IESS?",
+          "Dirección del IESS en Latacunga",
+          "¿Dónde se encuentra el IESS en Latacunga?"
+        ]
         ],
         "responses": [
           [
-           
-          ]
+          "El Hospital del IESS en Latacunga está ubicado en la Calle R. M. Irazabal y Calle Quito.",
+          "Puedes encontrar el Hospital del IESS en Latacunga en la Calle R. M. Irazabal, cerca de la Av. Eloy Alfaro y el Río Cutuchi.",
+          "El Hospital del IESS en Latacunga se encuentra en la intersección de la Calle R. M. Irazabal y la Calle Quito.",
+          "Para llegar al IESS en Latacunga, dirígete hacia la Calle R. M. Irazabal, cerca de la Av. Eloy Alfaro y el Río Cutuchi.",
+          "La dirección del Hospital del IESS en Latacunga es Calle R. M. Irazabal y Calle Quito, en la zona oeste de la ciudad.",
+          "Si buscas el IESS en Latacunga, está en la Calle R. M. Irazabal, cerca del sector Rumipamba y del Río Cutuchi."
+        ]
         ]
       },
       {
         "tag": "ubicacion_lalaguna",
         "patterns": [
           [
-  
-          ]
+          "¿Dónde queda La Laguna en Latacunga?",
+          "Ubicación de La Laguna en Latacunga",
+          "¿Cómo llegar a La Laguna?",
+          "Dame la dirección de La Laguna en Latacunga",
+          "¿Dónde está ubicada La Laguna?",
+          "Dirección de La Laguna en Latacunga",
+          "¿Dónde se encuentra La Laguna en Latacunga?"
+        ]
         ],
         "responses": [
           [
-           
+           "El Parque Náutico La Laguna está ubicado entre la Av. Atahualpa y la Calle Santiago Zamora, en Latacunga.",
+            "Puedes encontrar el Parque La Laguna en Latacunga en la intersección de la Av. Atahualpa, la Calle Chimborazo y la Calle Santiago Zamora.",
+            "El Parque Náutico La Laguna se encuentra en la intersección de la Av. Atahualpa y la Calle Chimborazo.",
+            "Para llegar al Parque La Laguna en Latacunga, dirígete hacia la Av. Atahualpa y sigue las indicaciones hacia el Parque Náutico.",
+            "La dirección del Parque La Laguna en Latacunga es Av. Atahualpa y Calle Chimborazo, en la zona este de la ciudad.",
+            "Si buscas el Parque La Laguna en Latacunga, está en la Av. Atahualpa, cerca del Río Illuchi y la Calle Santiago Zamora."
           ]
         ]
       },
@@ -470,25 +492,47 @@
         "tag": "ubicacion_espe",
         "patterns": [
           [
-  
-          ]
+          "¿Dónde queda la ESPE en Latacunga?",
+          "Ubicación de la ESPE Latacunga",
+          "¿Cómo llegar a la ESPE en Latacunga?",
+          "Dame la dirección de la ESPE en Latacunga",
+          "¿Dónde está la Universidad de las Fuerzas Armadas ESPE en Latacunga?",
+          "Dirección de la ESPE en Latacunga",
+          "¿Dónde se encuentra la ESPE en Latacunga?"
+        ]
         ],
         "responses": [
           [
-           
-          ]
+          "La Universidad de las Fuerzas Armadas ESPE - Extensión Latacunga está ubicada en la calle Marquéz de Maenza y Quijano y Ordóñez.",
+          "Puedes encontrar la ESPE en Latacunga en la calle Marquéz de Maenza, entre las calles Quijano y Ordóñez y Curaray.",
+          "La ESPE - Extensión Latacunga se encuentra en la intersección de las calles Marquéz de Maenza y Quijano y Ordóñez.",
+          "Para llegar a la Universidad de las Fuerzas Armadas ESPE en Latacunga, dirígete hacia la calle Marquéz de Maenza, cerca de la Empresa Eléctrica Provincial.",
+          "La dirección de la ESPE en Latacunga es calle Marquéz de Maenza, esquina con Quijano y Ordóñez.",
+          "Si buscas la ESPE en Latacunga, está en la calle Marquéz de Maenza, en el sector central de la ciudad."
+        ]
         ]
       },
       {
         "tag": "ubicacion_utc",
         "patterns": [
           [
-  
-          ]
+          "¿Dónde queda la Universidad Técnica de Cotopaxi?",
+          "Ubicación de la UTC en Latacunga",
+          "¿Cómo llegar a la UTC?",
+          "Dame la dirección de la Universidad Técnica de Cotopaxi",
+          "¿Dónde está la UTC en Latacunga?",
+          "Dirección de la UTC",
+          "¿Dónde se encuentra la Universidad Técnica de Cotopaxi?"
+        ]
         ],
         "responses": [
           [
-           
+           "La Universidad Técnica de Cotopaxi (UTC) está ubicada en la Av. Simón Rodríguez y Calle El Salvador, en Latacunga.",
+            "Puedes encontrar la UTC en Latacunga en la Av. Simón Rodríguez, cerca de la Calle 10 de Agosto y la Av. Iberoamericana.",
+            "La UTC se encuentra en la intersección de la Av. Simón Rodríguez y la Calle El Salvador, Latacunga, Ecuador.",
+            "Para llegar a la Universidad Técnica de Cotopaxi, dirígete hacia la Av. Simón Rodríguez, en la zona norte de la ciudad.",
+            "La dirección de la UTC es Av. Simón Rodríguez y Calle El Salvador, Latacunga, Ecuador.",
+            "Si buscas la UTC en Latacunga, está en la Av. Simón Rodríguez, cerca de la Av. Iberoamericana y la Calle Montevideo."
           ]
         ]
       },
@@ -496,39 +540,75 @@
         "tag": "ubicacion_estadiolacocha",
         "patterns": [
           [
-  
-          ]
+          "¿Dónde queda el Estadio La Cocha?",
+          "Ubicación del Estadio La Cocha en Latacunga",
+          "¿Cómo llegar al Estadio La Cocha?",
+          "Dame la dirección del Estadio La Cocha",
+          "¿Dónde está el estadio de Latacunga?",
+          "Dirección del Estadio La Cocha",
+          "¿Dónde se encuentra el Estadio La Cocha?",
+          "¿Cómo llegar al estadio de Latacunga?",
+          "¿Qué calles están cerca del Estadio La Cocha?"
+        ]
         ],
         "responses": [
           [
-           
-          ]
+          "El Estadio La Cocha está ubicado en Latacunga, entre las calles Quijano y Ordóñez y Luis de Anda.",
+          "Puedes encontrar el Estadio La Cocha en Latacunga, entre la calle Quijano y Ordóñez y la calle Luis de Anda, cerca del Río Yanayacu.",
+          "El Estadio La Cocha se encuentra en Latacunga, en la intersección de las calles Quijano y Ordóñez y Luis de Anda.",
+          "Para llegar al Estadio La Cocha, dirígete hacia la calle Quijano y Ordóñez, junto al Río Yanayacu.",
+          "La dirección del Estadio La Cocha es calle Quijano y Ordóñez y Luis de Anda, Latacunga, Ecuador.",
+          "El Estadio La Cocha está en Latacunga, a pocos minutos del centro, en las calles Quijano y Ordóñez y Luis de Anda.",
+          "Si buscas el Estadio La Cocha, está entre la calle Quijano y Ordóñez y la calle Luis de Anda, en la ciudad de Latacunga."
+        ]
         ]
       },
       {
         "tag": "ubicacion_fae",
         "patterns": [
           [
-  
-          ]
+          "¿Dónde queda la FAE en Latacunga?",
+          "Ubicación de la Base Aérea en Latacunga",
+          "¿Cómo llegar a la FAE en Latacunga?",
+          "Dame la dirección de la Base Aérea en Latacunga",
+          "¿Dónde está ubicada la FAE en Latacunga?",
+          "Dirección de la FAE Latacunga",
+          "¿Dónde se encuentra la Base Aérea de Latacunga?"
+        ]
         ],
         "responses": [
           [
-           
-          ]
+          "La Base Aérea de la FAE en Latacunga está ubicada en la Av. Amazonas, en la zona norte de la ciudad.",
+          "Puedes encontrar la Base Aérea de la Fuerza Aérea Ecuatoriana en Latacunga en la Av. Amazonas, cerca del Aeropuerto Internacional Cotopaxi.",
+          "La Base Aérea de Latacunga se encuentra en la Av. Amazonas, junto al Aeropuerto Internacional Cotopaxi.",
+          "Para llegar a la Base Aérea de la FAE en Latacunga, dirígete hacia la Av. Amazonas, en la zona norte de la ciudad, a pocos minutos del centro.",
+          "La dirección de la Base Aérea de la FAE en Latacunga es Av. Amazonas, junto al Aeropuerto Internacional Cotopaxi.",
+          "Si buscas la Base Aérea en Latacunga, está en la Av. Amazonas, en la zona del Aeropuerto Internacional Cotopaxi."
+        ]
         ]
       },
       {
         "tag": "ubicacion_aeropuerto",
         "patterns": [
           [
-  
-          ]
+          "¿Dónde queda el Aeropuerto Internacional Cotopaxi?",
+          "Ubicación del aeropuerto de Latacunga",
+          "¿Cómo llegar al aeropuerto de Latacunga?",
+          "Dame la dirección del Aeropuerto Internacional Cotopaxi",
+          "¿Dónde está el aeropuerto en Latacunga?",
+          "Dirección del Aeropuerto Cotopaxi",
+          "¿Dónde se encuentra el aeropuerto de Latacunga?"
+        ]
         ],
         "responses": [
           [
-           
-          ]
+          "El Aeropuerto Internacional Cotopaxi está ubicado en la Av. Amazonas, Latacunga, junto a la Base Aérea de la FAE.",
+          "Puedes encontrar el Aeropuerto Internacional Cotopaxi en la Av. Amazonas, en la zona norte de Latacunga.",
+          "El Aeropuerto Internacional Cotopaxi se encuentra en la Av. Amazonas, Latacunga, Ecuador.",
+          "Para llegar al Aeropuerto Internacional Cotopaxi, dirígete hacia la Av. Amazonas, cerca de la Base Aérea de la FAE.",
+          "La dirección del Aeropuerto Internacional Cotopaxi es Av. Amazonas, Latacunga, a pocos minutos del centro de la ciudad.",
+          "El Aeropuerto Internacional Cotopaxi está en la Av. Amazonas, Latacunga, al norte de la ciudad."
+        ]
         ]
       }
     ]
