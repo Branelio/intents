@@ -114,123 +114,220 @@
           ]
         ]
       },
-      {
-        "tag": "universidades",
-        "patterns": [
-          "universidades",
-          "¿Qué universidades hay?",
-          "¿Qué universidades puedo encontrar?",
-          "Dime universidades en Latacunga"
-        ],
-        "responses": [
-          [
-          "Puedes encontrar la Universidad Técnica de Cotopaxi (UTC), que ofrece una variedad de carreras y programas académicos.",
-          "La Universidad de las Fuerzas Armadas ESPE, que también tiene un campus en Latacunga con diversas opciones de estudio."
-          ]
+     {
+      "tag": "universidades",
+      "patterns": [
+        "universidades",
+        "¿Qué universidades existen?",
+        "Mencióname algunas universidades",
+        "¿Cuáles son las opciones universitarias?",
+        "Quiero estudiar una carrera universitaria",
+        "Opciones de educación superior",
+        "¿Dónde puedo estudiar una carrera?",
+        "Dime universidades disponibles"
+      ],
+      "responses": [
+        [
+          "En Latacunga puedes encontrar varias universidades como la Universidad Técnica de Cotopaxi (UTC), que ofrece diversas carreras y programas académicos.",
+          "También está la Universidad de las Fuerzas Armadas ESPE, que cuenta con una sede en Latacunga y diversas opciones de estudio.",
+          "Otra opción es la Universidad Técnica Particular de Loja (UTPL), que ofrece educación presencial y a distancia.",
+          "La Pontificia Universidad Católica del Ecuador (PUCE) también tiene una sede en Latacunga con programas académicos variados.",
+          "Cada universidad tiene su propia oferta académica y modalidades de estudio, por lo que puedes consultar sus páginas web para más información.",
+          "Si buscas una universidad, te recomiendo revisar los programas y requisitos de cada institución para elegir la que mejor se adapte a tus intereses."
         ]
-      },
-      {
-        "tag": "escuelas",
-        "patterns": [
-          
-        ],
-        "responses": [
-          [
-           
-          ]
+      ]
+    },
+    {
+      "tag": "escuelas",
+      "patterns": [
+        "escuelas",
+        "¿Qué escuelas existen?",
+        "Mencióname algunas escuelas",
+        "¿Cuáles son las opciones escolares?",
+        "Quiero inscribir a mi hijo en una escuela",
+        "Opciones de educación primaria",
+        "¿Dónde puedo encontrar una escuela?",
+        "Dime escuelas disponibles"
+      ],
+      "responses": [
+        [
+          "Claro, en Latacunga hay varias escuelas donde puedes inscribir a tu hijo. Algunas opciones son la Escuela de 11 de Noviembre (Illinchisi), la Escuela de Alaques (Alaquez) y la Escuela de Belisario Quevedo (Guanailin).",
+          "Mira, si estás buscando escuelas en Latacunga, podrías considerar la Escuela de Eloy Alfaro en San Felipe o la Escuela de Guaitacama en Guaytacama. También está la Escuela de Ignacio Flores en Parque Flores.",
+          "Te cuento que hay varias opciones dependiendo de la zona en la que estés. Algunas recomendadas son la Escuela de Joseguango Bajo, la Escuela de Juan Montalvo en San Sebastián y la Escuela de La Matriz.",
+          "Si buscas más alternativas, puedes revisar la Escuela de Mulaló, la Escuela de Poaló, la Escuela de San Buenaventura o la Escuela de San Juan de Pastocalle.",
+          "También tienes la Escuela de Tanicuchi y la Escuela de Toacaso, que son buenas opciones dependiendo de la ubicación que prefieras.",
+          "Cada escuela tiene su propio enfoque y metodología. Te recomendaría visitar sus instalaciones o hablar con otros padres para ver cuál se adapta mejor a lo que buscas para tu hijo."
         ]
-      },
-      {
-        "tag": "platos_tipicos",
-        "patterns": [
-          [
-  
-          ]
-        ],
-        "responses": [
-          [
-           
-          ]
+      ]
+    },
+    {
+      "tag": "institutos",
+      "patterns": [
+        "institutos",
+        "¿Qué institutos existen?",
+        "Mencióname algunos institutos",
+        "¿Cuáles son las opciones de educación tecnológica?",
+        "Quiero estudiar en un instituto",
+        "Opciones de educación superior técnica",
+        "¿Dónde puedo encontrar un instituto?",
+        "Dime institutos disponibles"
+      ],
+      "responses": [
+        [
+          "Mira, en Latacunga hay algunos institutos si estás buscando educación técnica. Uno de ellos es el Instituto Tecnológico Ramón Barba Naranjo, que tiene varias opciones de estudio.",
+          "Si quieres estudiar en un instituto en Latacunga, puedes revisar el Instituto Superior Tecnológico Vicente León. Tiene programas interesantes que podrían ajustarse a lo que buscas.",
+          "También está el Instituto Superior Universitario Cotopaxi, que ofrece carreras técnicas y tecnológicas. Vale la pena echarle un vistazo.",
+          "Todo depende de lo que quieras estudiar, pero cualquiera de estos institutos puede ser una buena opción. Te recomendaría revisar su oferta académica y ver cuál te conviene más.",
+          "Cada instituto tiene su propio enfoque y áreas de especialización, así que lo mejor es que los contactes o visites para obtener más información.",
+          "Así que si buscas una educación técnica en Latacunga, definitivamente considera el Instituto Tecnológico Ramón Barba Naranjo, el Instituto Superior Tecnológico Vicente León, Instituto Superior Tecnológico Victoria Vásconez Cuvi y el Instituto Superior Universitario Cotopaxi. Todos ellos son excelentes alternativas para formarte en una carrera con futuro."
         ]
-      },
-      {
-        "tag": "transporte_publico_utcmatriz",
-        "patterns": [
-          [
-  
-          ]
-        ],
-        "responses": [
-          [
-           
-          ]
+      ]
+    },
+    {
+      "tag": "platos_tipicos",
+      "patterns": [
+        "platos típicos",
+        "¿Cuáles son los platos tradicionales?",
+        "Quiero conocer la gastronomía local",
+        "¿Qué platos debo probar en Latacunga?",
+        "Cuéntame sobre la comida típica",
+        "¿Qué especialidades tiene la región?",
+        "Dame ejemplos de platos locales",
+        "¿Cuáles son los sabores característicos de Latacunga?"
+      ],
+      "responses": [
+        [
+          "En Latacunga hay una variedad de platos típicos que definitivamente debes probar. Por ejemplo, las allullas, que son panecillos crujientes hechos con harina de trigo y manteca de chancho. ¡Son deliciosos!",
+          "Otro plato destacado son las chugchucaras, que incluyen carne de cerdo frita, tostado, mote, papas, plátanos fritos, empanadas dulces y canguil. Es un plato muy completo y sabroso.",
+          "No puedes dejar de probar el caldo de pata, un caldo reconfortante hecho con patas de res, mote, papas, cebolla, ajo y especias. Es perfecto para calentar el alma.",
+          "Las empanadas de morocho son otro clásico. Están hechas con maíz morocho y se pueden rellenar con queso, pollo o carne. Se fríen hasta dorarse y son un excelente acompañamiento.",
+          "La fritada es otro plato muy popular en la zona. Se trata de carne de cerdo frita que se sirve con mote, papas, plátanos maduros y curtido de cebolla. Ideal para compartir en familia.",
+          "Y no olvides los caramelos artesanales, que son dulces elaborados por artesanos de la ciudad. Son perfectos para satisfacer tu antojo de algo dulce después de una comida."
         ]
-      },
-      {
-        "tag": "transporte_publico_salto",
-        "patterns": [
-          [
-  
-          ]
-        ],
-        "responses": [
-          [
-           
-          ]
-        ]
-      },
-      {
-        "tag": "transporte_publico_fae",
-        "patterns": [
-          [
-  
-          ]
-        ],
-        "responses": [
-          [
-           
-          ]
-        ]
-      },
-      {
-        "tag": "transporte_publico_lalaguna",
-        "patterns": [
-          [
-  
-          ]
-        ],
-        "responses": [
-          [
-           
-          ]
-        ]
-      },
-      {
-        "tag": "hospitales",
-        "patterns": [
-          [
-  
-          ]
-        ],
-        "responses": [
-          [
-           
-          ]
-        ]
-      },
-      {
-        "tag": "clinicas",
-        "patterns": [
-          [
-  
-          ]
-        ],
-        "responses": [
-          [
-           
-          ]
-        ]
-      },
+      ]
+    },
+    {
+      "tag": "transporte_publico_utcmatriz",
+      "patterns": [
+        "¿Qué buses me llevan a la UTC Matriz?",
+        "¿Cuáles son las opciones de transporte público para llegar a la UTC?",
+        "¿Dónde me dejan los buses Citibus y Sultana de Cotopaxi si voy a la UTC?",
+        "¿Qué diferencia hay entre los buses Citibus y Sultana de Cotopaxi?",
+        "Si tomo un bus Citibus, ¿dónde debo bajarme para ir a la UTC?",
+        "¿Cuál es el bus que me deja más cerca de la entrada de la UTC Matriz?"
+      ],
+      "responses": [
+        "Puedes llegar a la UTC Matriz en transporte público usando los buses Citibus o Sultana de Cotopaxi.",
+        "Los buses Citibus te dejan una calle abajo de la UTC Matriz, por lo que debes caminar unos metros hasta la entrada.",
+        "Si tomas un bus Sultana de Cotopaxi, te dejará justo al frente de la UTC Matriz.",
+        "La diferencia entre los buses Citibus y Sultana de Cotopaxi es que los primeros te dejan una calle abajo y los segundos justo en la entrada de la universidad.",
+        "Si quieres bajarte lo más cerca posible de la UTC Matriz, te recomendamos tomar los buses Sultana de Cotopaxi.",
+        "Para llegar en bus a la UTC Matriz, puedes elegir entre Citibus o Sultana de Cotopaxi, dependiendo de qué tan cerca quieras bajarte de la entrada."
+      ]
+    },
+    {
+      "tag": "transporte_publico_salto",
+      "patterns": [
+        "¿Qué buses pasan por El Salto?",
+        "¿Cómo puedo llegar a El Salto en transporte público?",
+        "¿Dónde me dejan los buses Citibus y Sultana de Cotopaxi en El Salto?",
+        "¿Cuál es la mejor opción de bus para ir al mercado de ropa de El Salto?",
+        "Si voy en bus a El Salto, ¿por qué calle debo bajarme?",
+        "¿Qué diferencia hay entre los buses Citibus y Sultana de Cotopaxi en esta ruta?"
+      ],
+      "responses": [
+        "Para llegar a El Salto en transporte público, puedes tomar los buses Citibus o Sultana de Cotopaxi.",
+        "Ambos buses, Citibus y Sultana de Cotopaxi, te dejan en la calle a la derecha del mercado de ropa de El Salto.",
+        "Si viajas a El Salto en bus, debes bajarte en la calle lateral derecha del mercado de ropa.",
+        "No hay diferencia en la parada entre los buses Citibus y Sultana de Cotopaxi en El Salto, ambos te dejan en la misma calle.",
+        "Para visitar el mercado de ropa de El Salto, puedes usar los buses Citibus o Sultana de Cotopaxi, que te dejarán muy cerca.",
+        "Si buscas transporte público hacia El Salto, los buses Citibus y Sultana de Cotopaxi son la mejor opción."
+      ]
+    },
+    {
+      "tag": "transporte_publico_fae",
+      "patterns": [
+        "¿Qué buses pasan por la FAE?",
+        "¿Cómo puedo llegar a la FAE en transporte público?",
+        "¿Cuáles son las opciones de buses si estoy en El Salto y quiero ir a la FAE?",
+        "¿Qué buses puedo tomar desde el terminal terrestre para ir a la FAE?",
+        "¿Cuál es la mejor opción de bus para llegar a la FAE desde diferentes puntos?",
+        "Si estoy en El Salto, ¿qué bus me conviene tomar para ir a la FAE?"
+      ],
+      "responses": [
+        "Para llegar a la FAE en transporte público, puedes tomar los buses Citibus o Sultana de Cotopaxi.",
+        "Si te encuentras en El Salto, la mejor opción para ir a la FAE es tomar los buses Citibus o Sultana de Cotopaxi.",
+        "Desde el terminal terrestre, puedes tomar los buses Mulaló o Aláquez, que también pasan por la FAE.",
+        "Si necesitas llegar a la FAE desde el terminal, los buses Mulaló y Aláquez son una buena opción.",
+        "Desde El Salto, los buses Citibus y Sultana de Cotopaxi te llevarán a la FAE de manera más rápida.",
+        "Dependiendo de tu ubicación, puedes tomar diferentes buses para llegar a la FAE: Citibus y Sultana de Cotopaxi desde El Salto, o Mulaló y Aláquez desde el terminal terrestre."
+      ]
+    },
+    {
+      "tag": "transporte_publico_lalaguna",
+      "patterns": [
+        "¿Qué líneas de buses llegan hasta La Laguna?",
+        "¿Cómo puedo trasladarme a La Laguna en bus?",
+        "¿Cuáles son las opciones de transporte público para ir a La Laguna?",
+        "Si estoy en El Salto, ¿qué transporte debo tomar para llegar a La Laguna?",
+        "¿Los buses Citibus y Sultana de Cotopaxi tienen paradas en La Laguna?",
+        "¿Cuál es la mejor alternativa de bus para ir a La Laguna?"
+      ],
+      "responses": [
+        "Para llegar a La Laguna en transporte público, puedes tomar los buses Citibus o Sultana de Cotopaxi.",
+        "Las líneas de transporte que llegan a La Laguna son Citibus y Sultana de Cotopaxi.",
+        "Si necesitas trasladarte a La Laguna, los buses disponibles son Citibus y Sultana de Cotopaxi.",
+        "Desde El Salto, puedes tomar un bus Citibus o Sultana de Cotopaxi para llegar a La Laguna.",
+        "Sí, los buses Citibus y Sultana de Cotopaxi tienen paradas en La Laguna.",
+        "La mejor alternativa de transporte público para ir a La Laguna es tomar un bus Citibus o Sultana de Cotopaxi."
+      ]
+    },
+    {
+      "tag": "hospitales",
+      "patterns": [
+        "¿Cuáles son los hospitales en Latacunga?",
+        "¿Dónde queda el Hospital del IESS en Latacunga?",
+        "¿Qué servicios ofrece el Hospital Básico San Francisco?",
+        "¿Dónde se encuentra el Hospital Cotopaxi?",
+        "¿El Hospital Roosevelt es público o privado?",
+        "¿Cómo llegar al Hospital General Latacunga?",
+        "¿El Hospital Básico Clínica Santa Cecilia atiende emergencias?",
+        "¿Qué especialidades tiene el Hospital Básico SNE-MED?"
+      ],
+      "responses": [
+        "Los hospitales en Latacunga incluyen: Hospital del IESS, Hospital Básico San Francisco, Hospital Cotopaxi, Hospital Roosevelt, Hospital General Latacunga, Hospital Básico Clínica Santa Cecilia y Hospital Básico SNE-MED.",
+        "El Hospital del IESS (Seguro Social) está ubicado en Latacunga y brinda atención a afiliados y jubilados.",
+        "El HOSPITAL LA MERCED ofrece consultas generales, especialidades médicas y servicios de emergencia.",
+        "El Hospital Cotopaxi se encuentra en Latacunga y es una referencia en atención médica especializada.",
+        "El Hospital Roosevelt es un hospital privado que brinda atención médica en diversas especialidades.",
+        "Para llegar al Hospital General Latacunga, puedes utilizar transporte público o vehículo particular, ubicado en una zona accesible de la ciudad.",
+        "El Hospital Básico Clínica Santa Cecilia cuenta con atención en emergencias y diferentes especialidades médicas.",
+        "El Hospital Básico SNE-MED ofrece consultas generales, especialidades médicas y servicios hospitalarios básicos."
+      ]
+    },
+    {
+      "tag": "clinicas",
+      "patterns": [
+        "¿Cuáles son las clínicas más conocidas en Latacunga?",
+        "¿Dónde está ubicada la Clínica Latacunga?",
+        "¿Qué tipo de procedimientos realiza la Clínica Cirugía Control?",
+        "¿Qué servicios ofrece la Clínica NovaSalud?",
+        "¿El Hospital Básico San Francisco tiene servicios de clínica?",
+        "¿Qué tipo de cirugía se realiza en la Clínica de Bypass Gástrico en Latacunga?",
+        "¿En qué se especializa la Clínica Cirugía Control?",
+        "¿Qué tratamientos realiza la Clínica de Manga Gástrica?"
+      ],
+      "responses": [
+        "En Latacunga, algunas de las clínicas más conocidas son: Clínica Latacunga, Clínica Cirugía Control, Clínica de Bypass Gástrico, Clínica NovaSalud, y el Hospital Básico San Francisco.",
+        "La Clínica Latacunga está ubicada en el centro de la ciudad, ofreciendo una amplia gama de servicios médicos.",
+        "La Clínica Cirugía Control se especializa en procedimientos como coloproctología, bypass gástrico, manga gástrica, y balón gástrico.",
+        "La Clínica NovaSalud ofrece atención médica en varias especialidades, como medicina general, cirugía y otras consultas especializadas.",
+        "Sí, el Hospital Básico San Francisco también ofrece servicios de clínica, incluyendo consultas externas y hospitalización.",
+        "En la Clínica de Bypass Gástrico en Latacunga se realizan procedimientos quirúrgicos para la pérdida de peso, como bypass gástrico y manga gástrica.",
+        "La Clínica Cirugía Control está especializada en cirugía digestiva, tratamiento de enfermedades del colon y cirugía bariátrica.",
+        "La Clínica de Manga Gástrica en Latacunga ofrece procedimientos quirúrgicos para la reducción de peso, como la manga gástrica."
+      ]
+    },
       {
         "tag": "actividades_deportivas",
         "patterns": [
