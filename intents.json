@@ -235,113 +235,113 @@
       {
         "tag": "actividades_deportivas",
         "patterns": [
-          ["¿Qué deportes puedo practicar en Latacunga?", "¿Hay actividades deportivas en la ciudad?", "Recomiéndame deportes al aire libre aquí", "¿Dónde hacer ejercicio en Latacunga?", "¿Hay lugares para correr o andar en bici?"],
-          ["¿Existen ligas locales de algún deporte?", "¿Organizan eventos deportivos?", "¿Hay clubes deportivos para unirse?", "¿Deportes extremos cerca de Latacunga?", "¿Puedo escalar montañas aquí?"]
+          "¿Qué deportes puedo practicar en Latacunga?", "¿Hay actividades deportivas en la ciudad?", "Recomiéndame deportes al aire libre aquí", "¿Dónde hacer ejercicio en Latacunga?", "¿Hay lugares para correr o andar en bici?",
+          "¿Existen ligas locales de algún deporte?", "¿Organizan eventos deportivos?", "¿Hay clubes deportivos para unirse?", "¿Deportes extremos cerca de Latacunga?", "¿Puedo escalar montañas aquí?"
         ],
         "responses": [
-          ["¡Claro! En Latacunga puedes practicar senderismo en el Cotopaxi, ciclismo en el Parque Nacional, o incluso unirte a los torneos de fútbol los fines de semana. 🏔️ ¿Te gustaría saber más sobre alguna actividad en específico?"],
-          ["¿Te animas por el aire libre? Te recomiendo el trail running en el Rumiñahui o el kayak en la laguna de Limpiopungo. ¡Hay opciones para todos los niveles! 😊"],
-          ["¡Sí! Prueba el voleibol playa en La Victoria o el parapente cerca del volcán. ¿Quieres que te cuente más detalles de alguno?"],
-          ["En la ciudad hay grupos de running que se reúnen en el Parque Vicente León. También puedes alquilar bicicletas cerca del centro. 🚴♂️ ¿Necesitas direcciones?"],
-          ["¿Sabías que el Parque Nacional Cotopaxi es ideal para cabalgatas? Además, hay rutas seguras para ciclistas. ¡La aventura está a un paso! 🌄"]
+          "¡Claro! En Latacunga puedes practicar senderismo en el Cotopaxi, ciclismo en el Parque Nacional, o incluso unirte a los torneos de fútbol los fines de semana. 🏔️ ¿Te gustaría saber más sobre alguna actividad en específico?",
+          "¿Te animas por el aire libre? Te recomiendo el trail running en el Rumiñahui o el kayak en la laguna de Limpiopungo. ¡Hay opciones para todos los niveles! 😊",
+          "¡Sí! Prueba el voleibol playa en La Victoria o el parapente cerca del volcán. ¿Quieres que te cuente más detalles de alguno?",
+          "En la ciudad hay grupos de running que se reúnen en el Parque Vicente León. También puedes alquilar bicicletas cerca del centro. 🚴♂️ ¿Necesitas direcciones?",
+          "¿Sabías que el Parque Nacional Cotopaxi es ideal para cabalgatas? Además, hay rutas seguras para ciclistas. ¡La aventura está a un paso! 🌄"
         ]
       },
       {
         "tag": "fechas_importantes",
         "patterns": [
-          ["¿Cuáles son las fechas importantes de Latacunga?", "¿Qué celebraciones hay este mes?", "Festividades clave de la ciudad", "¿Cuándo es la Fiesta de la Mama Negra?", "¿En qué fecha se fundó Latacunga?"],
-          ["¿Hay feriados locales próximos?", "¿Qué festejos tradicionales no debo perderme?", "¿Cuándo es el Carnaval aquí?", "¿Alguna fiesta histórica?", "¿Eventos culturales este año?"]
+          "¿Cuáles son las fechas importantes de Latacunga?", "¿Qué celebraciones hay este mes?", "Festividades clave de la ciudad", "¿Cuándo es la Fiesta de la Mama Negra?", "¿En qué fecha se fundó Latacunga?",
+          "¿Hay feriados locales próximos?", "¿Qué festejos tradicionales no debo perderme?", "¿Cuándo es el Carnaval aquí?", "¿Alguna fiesta histórica?", "¿Eventos culturales este año?"
         ],
         "responses": [
-          ["¡Apúntate estas fechas! 🗓️ La Mama Negra se celebra en noviembre, la fundación de la ciudad es el 27 de septiembre, y el Carnaval se vive con agua y harina en febrero. ¿Quieres que profundice en alguna?"],
-          ["No te pierdas el 11 de noviembre: es el día central de la Mama Negra, con desfiles llenos de color y tradición. 🎭 ¿Te interesa saber el significado de esta fiesta?"],
-          ["El 27 de septiembre es clave: se conmemora la fundación de Latacunga. Además, en junio se celebra el Inti Raymi. ¡Cada mes tiene algo especial! ☀️"],
-          ["En diciembre está el Pase del Niño Viajero, una procesión única con música y danzas. ¡Es una experiencia cultural imperdible! 🎉"],
-          ["¿Eres fan de las leyendas? Durante el Día de los Difuntos (2 de noviembre), se cuenta la historia de la «Caja Ronca» en el cementerio local. 🕯️ ¿Te atreverías a ir?"]
+          "¡Apúntate estas fechas! 🗓️ La Mama Negra se celebra en noviembre, la fundación de la ciudad es el 27 de septiembre, y el Carnaval se vive con agua y harina en febrero. ¿Quieres que profundice en alguna?",
+          "No te pierdas el 11 de noviembre: es el día central de la Mama Negra, con desfiles llenos de color y tradición. 🎭 ¿Te interesa saber el significado de esta fiesta?",
+          "El 27 de septiembre es clave: se conmemora la fundación de Latacunga. Además, en junio se celebra el Inti Raymi. ¡Cada mes tiene algo especial! ☀️",
+          "En diciembre está el Pase del Niño Viajero, una procesión única con música y danzas. ¡Es una experiencia cultural imperdible! 🎉",
+          "¿Eres fan de las leyendas? Durante el Día de los Difuntos (2 de noviembre), se cuenta la historia de la «Caja Ronca» en el cementerio local. 🕯️ ¿Te atreverías a ir?"
         ]
       },
       {
         "tag": "historia_mamanegra",
         "patterns": [
-          ["¿Qué representa la Mama Negra?", "Historia de la Mama Negra", "¿Por qué es importante esta tradición?", "¿Quién creó la Mama Negra?", "¿Cuál es el origen de la fiesta?"],
-          ["¿Qué simbolizan los personajes de la Mama Negra?", "¿Es una tradición indígena o española?", "¿Cómo ha evolucionado esta celebración?", "¿Hay leyendas alrededor de la Mama Negra?", "¿Por qué se llama así?"]
+          "¿Qué representa la Mama Negra?", "Historia de la Mama Negra", "¿Por qué es importante esta tradición?", "¿Quién creó la Mama Negra?", "¿Cuál es el origen de la fiesta?",
+          "¿Qué simbolizan los personajes de la Mama Negra?", "¿Es una tradición indígena o española?", "¿Cómo ha evolucionado esta celebración?", "¿Hay leyendas alrededor de la Mama Negra?", "¿Por qué se llama así?"
         ],
         "responses": [
-          ["¡Es una fusión cultural! 🎭 La Mama Negra honra a la Virgen de La Merced y mezcla elementos africanos, indígenas y mestizos. Se dice que nació para proteger a la ciudad de erupciones volcánicas. ¿Quieres saber más sobre sus personajes?"],
-          ["Imagina esto: en el siglo XVIII, los esclavos africanos introdujeron ritmos y danzas, mientras los indígenas agregaron símbolos agrícolas. ¡Hoy es Patrimonio Cultural del Ecuador! 🌾"],
-          ["¿Sabías que hay dos versiones? La «Mama Negra» de septiembre (religiosa) y la de noviembre (popular). Ambas son un espectáculo de música y máscaras. 🎪"],
-          ["El personaje principal lleva un vestido colorido y un muñeco simbolizando la dualidad vida/muerte. ¡Cada detalle tiene un significado profundo! 💀🌸"],
-          ["Una leyenda cuenta que la Mama Negra calmó la furia del Cotopaxi en 1742. Desde entonces, se la considera protectora de Latacunga. 🌋 ¿Impresionante, verdad?"]
+          "¡Es una fusión cultural! 🎭 La Mama Negra honra a la Virgen de La Merced y mezcla elementos africanos, indígenas y mestizos. Se dice que nació para proteger a la ciudad de erupciones volcánicas. ¿Quieres saber más sobre sus personajes?",
+          "Imagina esto: en el siglo XVIII, los esclavos africanos introdujeron ritmos y danzas, mientras los indígenas agregaron símbolos agrícolas. ¡Hoy es Patrimonio Cultural del Ecuador! 🌾",
+          "¿Sabías que hay dos versiones? La «Mama Negra» de septiembre (religiosa) y la de noviembre (popular). Ambas son un espectáculo de música y máscaras. 🎪",
+          "El personaje principal lleva un vestido colorido y un muñeco simbolizando la dualidad vida/muerte. ¡Cada detalle tiene un significado profundo! 💀🌸",
+          "Una leyenda cuenta que la Mama Negra calmó la furia del Cotopaxi en 1742. Desde entonces, se la considera protectora de Latacunga. 🌋 ¿Impresionante, verdad?"
         ]
       },
       {
         "tag": "historia_latacunga",
         "patterns": [
-          ["¿Cómo se fundó Latacunga?", "Datos históricos de la ciudad", "¿Qué origen tiene Latacunga?", "¿Quién fundó Latacunga?", "¿Cuál es la historia antigua de la ciudad?"],
-          ["¿Qué civilizaciones habitaron aquí antes?", "¿Cómo afectaron los volcanes a su historia?", "¿Latacunga fue parte del Imperio Inca?", "¿Hay ruinas arqueológicas cerca?", "¿Qué batallas ocurrieron aquí?"]
+          "¿Cómo se fundó Latacunga?", "Datos históricos de la ciudad", "¿Qué origen tiene Latacunga?", "¿Quién fundó Latacunga?", "¿Cuál es la historia antigua de la ciudad?",
+          "¿Qué civilizaciones habitaron aquí antes?", "¿Cómo afectaron los volcanes a su historia?", "¿Latacunga fue parte del Imperio Inca?", "¿Hay ruinas arqueológicas cerca?", "¿Qué batallas ocurrieron aquí?"
         ],
         "responses": [
-          ["¡Viajemos al pasado! 🕰️ Latacunga fue fundada en 1534 por los españoles, pero antes fue un asentamiento de los Panzaleos. Su nombre en quichua significa «tierra estrecha». ¿Quieres saber sobre su rol en la colonia?"],
-          ["¿Sabías que la ciudad fue destruida 3 veces por el Cotopaxi? 🌋 La última erupción grave fue en 1877. ¡Por eso sus edificios son de piedra volcánica!"],
-          ["En la época inca, Latacunga era un «tambo» (lugar de descanso) en la ruta Quito-Cusco. Hoy aún se ven vestigios de caminos empedrados. 👣"],
-          ["Durante la independencia, fue clave en la batalla de Tapi (1822). ¡Hasta Simón Bolívar pasó por aquí! ¿Te interesan sus monumentos históricos?"],
-          ["La Catedral de Latacunga tiene una campana fundida con oro de Minas Gerona. 🔔 ¿Quieres que te recomiende un tour guiado por el centro histórico?"]
+          "¡Viajemos al pasado! 🕰️ Latacunga fue fundada en 1534 por los españoles, pero antes fue un asentamiento de los Panzaleos. Su nombre en quichua significa «tierra estrecha». ¿Quieres saber sobre su rol en la colonia?",
+          "¿Sabías que la ciudad fue destruida 3 veces por el Cotopaxi? 🌋 La última erupción grave fue en 1877. ¡Por eso sus edificios son de piedra volcánica!",
+          "En la época inca, Latacunga era un «tambo» (lugar de descanso) en la ruta Quito-Cusco. Hoy aún se ven vestigios de caminos empedrados. 👣",
+          "Durante la independencia, fue clave en la batalla de Tapi (1822). ¡Hasta Simón Bolívar pasó por aquí! ¿Te interesan sus monumentos históricos?",
+          "La Catedral de Latacunga tiene una campana fundida con oro de Minas Gerona. 🔔 ¿Quieres que te recomiende un tour guiado por el centro histórico?"
         ]
       },
       {
         "tag": "ubicacion_latacunga",
         "patterns": [
-          ["¿Dónde está Latacunga?", "Ubicación geográfica de la ciudad", "¿En qué provincia está?", "¿Latacunga queda cerca de Quito?", "¿Cómo llegar desde Guayaquil?"],
-          ["¿Qué altura tiene Latacunga?", "¿Latacunga está en la Sierra?", "¿Cuál es la dirección exacta del centro?", "¿Hay mapas detallados de la ciudad?", "¿Qué límites naturales tiene?"]
+          "¿Dónde está Latacunga?", "Ubicación geográfica de la ciudad", "¿En qué provincia está?", "¿Latacunga queda cerca de Quito?", "¿Cómo llegar desde Guayaquil?",
+          "¿Qué altura tiene Latacunga?", "¿Latacunga está en la Sierra?", "¿Cuál es la dirección exacta del centro?", "¿Hay mapas detallados de la ciudad?", "¿Qué límites naturales tiene?"
         ],
         "responses": [
-          ["📍 Latacunga es la capital de Cotopaxi, a 2,800 msnm. Está en la Panamericana Sur, a 1h30 de Quito. ¡Rodeada por el Cotopaxi, Quilotoa y el Rumiñahui!"],
-          ["Si vienes desde Quito, toma la E35 hacia el sur (89 km). Desde Guayaquil, son 4h por la vía Milagro-Quevedo. ¿Necesitas recomendaciones de transporte? 🚌"],
-          ["¿Sabías que la ciudad está en el valle del río Cutuchi? 🌄 Su clima es fresco (10-20°C). Ideal para disfrutar sin tanto calor. ¿Buscas alojamiento?"],
-          ["Coordenadas exactas: 0°55′S 78°36′O. ¡Pero no te preocupes! Todos los buses interprovinciales paran en la Terminal Terrestre. 🚍"],
-          ["Limita al norte con Quito, al sur con Ambato, y al este con la Amazonía. ¡Es el corazón de Ecuador! ❤️ ¿Planeas visitar otros lugares cercanos?"]
+          "📍 Latacunga es la capital de Cotopaxi, a 2,800 msnm. Está en la Panamericana Sur, a 1h30 de Quito. ¡Rodeada por el Cotopaxi, Quilotoa y el Rumiñahui!",
+          "Si vienes desde Quito, toma la E35 hacia el sur (89 km). Desde Guayaquil, son 4h por la vía Milagro-Quevedo. ¿Necesitas recomendaciones de transporte? 🚌",
+          "¿Sabías que la ciudad está en el valle del río Cutuchi? 🌄 Su clima es fresco (10-20°C). Ideal para disfrutar sin tanto calor. ¿Buscas alojamiento?",
+          "Coordenadas exactas: 0°55′S 78°36′O. ¡Pero no te preocupes! Todos los buses interprovinciales paran en la Terminal Terrestre. 🚍",
+          "Limita al norte con Quito, al sur con Ambato, y al este con la Amazonía. ¡Es el corazón de Ecuador! ❤️ ¿Planeas visitar otros lugares cercanos?"
         ]
       },
       {
         "tag": "ubicacion_parque_nacional_cotopaxi",
         "patterns": [
-          ["¿Cómo llegar al Parque Nacional Cotopaxi?", "¿Dónde queda el Cotopaxi?", "Ubicación del parque Cotopaxi", "¿Hay tours al volcán desde Latacunga?", "¿Qué ruta tomar para el Cotopaxi?"],
-          ["¿Se puede ir en transporte público?", "¿Cuánto tiempo se tarda desde el centro?", "¿Hay señalización en el camino?", "¿Necesito guía para entrar?", "¿Dónde alquilar equipo de montaña?"]
+          "¿Cómo llegar al Parque Nacional Cotopaxi?", "¿Dónde queda el Cotopaxi?", "Ubicación del parque Cotopaxi", "¿Hay tours al volcán desde Latacunga?", "¿Qué ruta tomar para el Cotopaxi?",
+          "¿Se puede ir en transporte público?", "¿Cuánto tiempo se tarda desde el centro?", "¿Hay señalización en el camino?", "¿Necesito guía para entrar?", "¿Dónde alquilar equipo de montaña?"
         ],
         "responses": [
-          ["🌋 El Parque Nacional Cotopaxi está a 50 km al noreste de Latacunga. Toma la vía Latacunga-Machachi y sigue las señales. ¿Vas en auto o prefieres un tour organizado?"],
-          ["¡Sí hay buses! Toma uno hacia Machachi y pide bajar en el desvío al Parque. Desde ahí, camina o contrata un pickup. 🚐 ¿Necesitas horarios de transporte?"],
-          ["En auto, son ~1h desde Latacunga. La entrada principal está en el sector El Pedregal. ¡No olvides tu abrigo! ❄️ ¿Quieres saber sobre el clima actual?"],
-          ["¿Sabías que hay un museo en el Parque? Está cerca de la laguna de Limpiopungo. 🦌 ¡También verás venados y caballos salvajes!"],
-          ["Recomendación: contrata un guía en Latacunga (ofrecen tours desde $30). Incluyen transporte, equipo y seguro. 📞 ¿Quieres que te pase contactos?"]
+          "🌋 El Parque Nacional Cotopaxi está a 50 km al noreste de Latacunga. Toma la vía Latacunga-Machachi y sigue las señales. ¿Vas en auto o prefieres un tour organizado?",
+          "¡Sí hay buses! Toma uno hacia Machachi y pide bajar en el desvío al Parque. Desde ahí, camina o contrata un pickup. 🚐 ¿Necesitas horarios de transporte?",
+          "En auto, son ~1h desde Latacunga. La entrada principal está en el sector El Pedregal. ¡No olvides tu abrigo! ❄️ ¿Quieres saber sobre el clima actual?",
+          "¿Sabías que hay un museo en el Parque? Está cerca de la laguna de Limpiopungo. 🦌 ¡También verás venados y caballos salvajes!"],
+          "Recomendación: contrata un guía en Latacunga (ofrecen tours desde $30). Incluyen transporte, equipo y seguro. 📞 ¿Quieres que te pase contactos?"
         ]
       },
       {
         "tag": "ubicacion_parque_vicenteleon",
         "patterns": [
-          ["¿Dónde está el Parque Vicente León?", "Ubicación del parque central", "Cómo llegar al parque Vicente León", "¿Qué calles rodean el parque?", "¿Es seguro el parque de noche?"],
-          ["¿Hay estacionamiento cerca?", "¿A qué distancia está de la Catedral?", "¿Qué buses paran ahí?", "¿El parque tiene wifi público?", "¿Horario de visita?"]
+          "¿Dónde está el Parque Vicente León?", "Ubicación del parque central", "Cómo llegar al parque Vicente León", "¿Qué calles rodean el parque?", "¿Es seguro el parque de noche?",
+          "¿Hay estacionamiento cerca?", "¿A qué distancia está de la Catedral?", "¿Qué buses paran ahí?", "¿El parque tiene wifi público?", "¿Horario de visita?"
         ],
         "responses": [
-          ["🌳 El Parque Vicente León es el corazón de Latacunga. Está entre las calles Maldonado, Quito, Echeverría y Sánchez de Orellana. ¡No te pierdas su reloj floral!"],
-          ["Desde la Terminal Terrestre, toma un taxi ($1.25) o camina 15 minutos por la Av. Amazonas. 🚖 "],
-          ["¿Sabías que el parque tiene 4 glorietas? Cada una representa una época histórica. 🏛️ ¡Perfecto para fotos al atardecer!"],
-          ["De día es seguro, pero de noche cierran sus accesos. 🕗 ¿Quieres saber sobre eventos culturales que se realizan allí?"],
-          ["Alrededor hay cafeterías, la Gobernación y la Iglesia de San Francisco. ☕ ¿Te interesa la arquitectura colonial? ¡Te encantará!"]
+          "🌳 El Parque Vicente León es el corazón de Latacunga. Está entre las calles Maldonado, Quito, Echeverría y Sánchez de Orellana. ¡No te pierdas su reloj floral!",
+          "Desde la Terminal Terrestre, toma un taxi ($1.25) o camina 15 minutos por la Av. Amazonas. 🚖 ",
+          "¿Sabías que el parque tiene 4 glorietas? Cada una representa una época histórica. 🏛️ ¡Perfecto para fotos al atardecer!",
+          "De día es seguro, pero de noche cierran sus accesos. 🕗 ¿Quieres saber sobre eventos culturales que se realizan allí?",
+          "Alrededor hay cafeterías, la Gobernación y la Iglesia de San Francisco. ☕ ¿Te interesa la arquitectura colonial? ¡Te encantará!"
         ]
       },
       {
         "tag": "ubicacion_hospitalgeneral",
         "patterns": [
-          ["¿Dónde queda el hospital general?", "Dirección del hospital de Latacunga", "Ubicación del centro médico principal", "¿Cómo llegar al hospital desde el centro?", "¿Hay farmacias 24/7 cerca del hospital?"],
-          ["¿El hospital tiene servicio de ambulancia?", "¿Cuál es el teléfono de emergencias?", "¿Hay especialistas en el hospital?", "¿Se necesita cita previa?", "¿Aceptan seguros internacionales?"]
+          "¿Dónde queda el hospital general?", "Dirección del hospital de Latacunga", "Ubicación del centro médico principal", "¿Cómo llegar al hospital desde el centro?", "¿Hay farmacias 24/7 cerca del hospital?",
+          "¿El hospital tiene servicio de ambulancia?", "¿Cuál es el teléfono de emergencias?", "¿Hay especialistas en el hospital?", "¿Se necesita cita previa?", "¿Aceptan seguros internacionales?"
         ],
         "responses": [
-          ["🏥 El Hospital General está en la Av. Unidad Nacional, junto al Colegio Vicente León. Si vas en taxi, di «al hospital de la UNA» (todos lo conocen)."],
-          ["Emergencias: 098 765 4321. 🚨 Si vienes del centro, toma la Av. Amazonas hacia el sur y gira en la segunda rotonda. ¿Necesitas acompañamiento?"],
-          ["Frente al hospital hay una farmacia 24 horas. 💊 ¿Buscas una especialidad médica en particular? Puedo ayudarte con contactos."],
-          ["¿Sabías que el hospital tiene un helipuerto para emergencias graves? 🚁 ¡Es referencial para toda la provincia!"],
-          ["Si vas en bus, las líneas 3, 7 y 12 paran a 2 cuadras. 🚌 ¿Necesitas indicaciones más detalladas?"]
+          "🏥 El Hospital General está en la Av. Unidad Nacional, junto al Colegio Vicente León. Si vas en taxi, di «al hospital de la UNA» (todos lo conocen).",
+          "Emergencias: 098 765 4321. 🚨 Si vienes del centro, toma la Av. Amazonas hacia el sur y gira en la segunda rotonda. ¿Necesitas acompañamiento?",
+          "Frente al hospital hay una farmacia 24 horas. 💊 ¿Buscas una especialidad médica en particular? Puedo ayudarte con contactos.",
+          "¿Sabías que el hospital tiene un helipuerto para emergencias graves? 🚁 ¡Es referencial para toda la provincia!",
+          "Si vas en bus, las líneas 3, 7 y 12 paran a 2 cuadras. 🚌 ¿Necesitas indicaciones más detalladas?"
         ]
       }
   ]
