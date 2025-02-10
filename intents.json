@@ -439,8 +439,7 @@
           "¿Sabías que el hospital tiene un helipuerto para emergencias graves?  ¡Es referencial para toda la provincia!",
           "Si vas en bus, las líneas 3, 7 y 12 paran a 2 cuadras. ¿Necesitas indicaciones más detalladas?"
         ]
-      }
-  ]
+      },
       {
         "tag": "ubicacion_iess",
         "patterns": [
